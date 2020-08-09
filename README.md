@@ -6,4 +6,6 @@ You have been asked by Danielle Sherman, CTO of Blackwell Electronics, to prepar
 This task requires you to prepare one deliverable for Danielle Sherman:
 - Data Mining Presentation: PowerPoint presentation (6-10 slides) that includes a high-level overview of each data mining task you were asked to undertake.
 
-![Slide1](https://user-images.githubusercontent.com/67208468/89743281-2ece9a80-da67-11ea-8815-96a91ca484ce.JPG)
+
+Click on link above to view PowerPoint slides:
+![Slide1](https://user-images.githubusercontent.com/67208468/89743294-7523f980-da67-11ea-9eb0-b1042e706d8b.JPG)
